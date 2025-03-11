@@ -1,4 +1,4 @@
-## Project: Free CRM - Open-Source Customer Relationship Management System
+## Project: CRM - Customer Relationship Management System
 Project Overview: Free CRM is an open-source CRM software designed to help businesses manage customer relationships, sales teams, campaigns, leads, budgets, and expenses efficiently. Developed using a Monolithic Clean Architecture with the latest in .NET 9, this CRM solution empowers businesses, from solo entrepreneurs to large enterprises, to streamline operations and manage customer data seamlessly. It supports robust features such as campaign management, lead management, sales orders, and budgeting, all on a unified platform.
 
 # Key Features:
